@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1610829440 source:/home/lilly/Desktop/Mreze/ServerTest/main.c
+	<stdio.h>
+	<netdb.h>
+	<netinet/in.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<sys/types.h>
+
